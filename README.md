@@ -1,6 +1,6 @@
-# Öoo - Unity Remake
+# Bomber
 
-A Unity recreation of Öoo's revolutionary gameplay where bombs become your movement, puzzle-solving, and exploration toolkit.
+A new game developed by reimagining the core mechanics of Öoo, where players become the bomb itself—using explosive recoil to jump, double-jump, and leap diagonally.
 
 ![](./Sources/v1.gif)
 
@@ -10,17 +10,12 @@ A Unity recreation of Öoo's revolutionary gameplay where bombs become your move
 
 # How to Play
 
-* Movement: ← A / D → keys to crawl left/right.
-* Place Bomb: J key / Left Mouse Button.
-* Detonate Bomb: K key / Right Mouse Button (requires proximity).
+* Movement: Press ← A / D → to move left and right.
+* Place Obstacle: Press J or Left Mouse Button.
+* Place Obstacle on the player: Press U.
+* Explode: Press K or Right Mouse Button.
+* Clear Obstacles: Press C.
 
 # Upcoming Plans
 
-1. Modular Bomb Arsenal (8+ Types)
-
-| Type | Core Property | Environmental Effect |
-| --- | --- | --- |
-| Sticky | High surface adhesion | Creates temporary wall anchors |
-| Frost | Instant cryofreeze | Solidifies liquids into platforms |
-| Bouncy | Elastic collisions | Enables ricochet maneuvers (2.5x rebound) |
-| Acid | Progressive corrosion | Dissolves organic barriers over time |
+1. Explosive Obstacle Destruction.
